@@ -4,9 +4,9 @@ Password generator is a web page that takes input from the user to generate new 
 
 ## Instructions
 
-Just clic the "Generate Password" button and the browser will ask you how long the password would be, then the application will ask you to confirm or deny if the passworld will include lower case letters, upper case letters, numbers and special characters. You must to select at least one of this criteria to get a password.
+Just clic the "Generate Password" button and the browser will ask you how many characters the password would be, then the application will ask you to confirm or deny if the passworld will include lower case letters, upper case letters, numbers and special characters. You must to accept to at least one of this criteria to get a password.
 
-The new password will sdisplay in the page.
+The new password will display in the page.
 
 
 ![](Assets/Preview.jpg)
